@@ -29,6 +29,7 @@ body {
 }
 
 .text {
+    padding-top: 70px;
     z-index: 1;
     font-size: 3rem;
     text-transform: uppercase;
